@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://donut-delite-san-mateo.vercel.app/sitemap.xml
